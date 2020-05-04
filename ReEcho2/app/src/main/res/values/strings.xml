@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Re-Echo</string>
+    <string name="title_activity_recycle_bin_list">RecycleBinList</string>
+</resources>

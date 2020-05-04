@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.joielechong:zip4jandroid:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7629e6e474f23dd66da69389c0473be9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7629e6e474f23dd66da69389c0473be9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.joielechong/zip4jandroid/1.0.1/8e69ca535d1c2c45d58fb07972223ea019738c95/zip4jandroid-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

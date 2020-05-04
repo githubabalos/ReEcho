@@ -1,0 +1,4 @@
+#Mon Mar 23 20:51:18 SGT 2020
+base.0=C\:\\Users\\elija\\Downloads\\ReEcho2-20200318T150209Z-001\\ReEcho2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

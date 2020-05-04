@@ -1,0 +1,189 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\063611494255cb9cd794601f6409b54a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.joielechong:zip4jandroid:1.0.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7629e6e474f23dd66da69389c0473be9\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ddced0418c693795b0735b4503fe7bba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4a12707782226a7c12ff98b316128e9d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\122dbebf926a63dc2e83fde00e49cbc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\df1ff5193dc234ad5949bf40bb11fae7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7d06e36368155a76e694e1f4a3f3371f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\908b987e631126c459703606dea588d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\543e383a7825bb4e99d659a330791211\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\de2ef04fd301f9293a3f111548b796f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\0c19cac59bc1ec354e88375b4a8aa106\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5d473983b7081f26d2a7205d2f12c834\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6351b967b79147db600c7bdbaa561792\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\8dc2e1236ec4faad9d2140ebdbe78663\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ec39a9de0a567118ad8feabcae462449\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6adc2a4c8964f83e8874916e317de8ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f4b4ef765727c44c56bd05da9254262e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5fae4efac682c702bcc3b1e773ee68ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\e89bcc69a429b260846a5f1df820c5dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4089fc5ee4adf95b2e3b540d1728a620\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\88ac7bd38ccfce6d76638ad0ada70588\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\660a39a038323e37045f6879fd850451\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\682133510b6d949b5d62d1e67ca22f36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a8761b54f884a9b4da7e33f0e4be1321\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ef0780dbbaab05328c5b7b97c1aa6c69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\3fd830bf66c6e701abaf42e369f55d21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7f3e7c456ab029034eb7aa8a8fcd9fe7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a6f8e46f41fa23d4870c4ab720fa61b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\9b078f8146e51a40fd6cb9fab884ff70\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f6370cd0bb0807051ddc2b5f8f6a7ff7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\94fff44b7ccf023361dcde1076aa45f9\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\063611494255cb9cd794601f6409b54a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\063611494255cb9cd794601f6409b54a\AndroidManifest.xml:22:5-20
+MERGED from [com.github.joielechong:zip4jandroid:1.0.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7629e6e474f23dd66da69389c0473be9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.joielechong:zip4jandroid:1.0.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7629e6e474f23dd66da69389c0473be9\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4a12707782226a7c12ff98b316128e9d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4a12707782226a7c12ff98b316128e9d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4089fc5ee4adf95b2e3b540d1728a620\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4089fc5ee4adf95b2e3b540d1728a620\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:10:9-37
+	android:allowBackup
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.charles.re_echo.RecycleBinList
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:15:9-18:68
+	android:label
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:17:13-68
+	android:theme
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:16:13-43
+activity#com.charles.re_echo.MainActivity
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\063611494255cb9cd794601f6409b54a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\063611494255cb9cd794601f6409b54a\AndroidManifest.xml:20:5-44
+MERGED from [com.github.joielechong:zip4jandroid:1.0.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7629e6e474f23dd66da69389c0473be9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.joielechong:zip4jandroid:1.0.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7629e6e474f23dd66da69389c0473be9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ddced0418c693795b0735b4503fe7bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ddced0418c693795b0735b4503fe7bba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4a12707782226a7c12ff98b316128e9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4a12707782226a7c12ff98b316128e9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\122dbebf926a63dc2e83fde00e49cbc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\122dbebf926a63dc2e83fde00e49cbc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\df1ff5193dc234ad5949bf40bb11fae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\df1ff5193dc234ad5949bf40bb11fae7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7d06e36368155a76e694e1f4a3f3371f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7d06e36368155a76e694e1f4a3f3371f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\908b987e631126c459703606dea588d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\908b987e631126c459703606dea588d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\543e383a7825bb4e99d659a330791211\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\543e383a7825bb4e99d659a330791211\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\de2ef04fd301f9293a3f111548b796f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\de2ef04fd301f9293a3f111548b796f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\0c19cac59bc1ec354e88375b4a8aa106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\0c19cac59bc1ec354e88375b4a8aa106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5d473983b7081f26d2a7205d2f12c834\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5d473983b7081f26d2a7205d2f12c834\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6351b967b79147db600c7bdbaa561792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6351b967b79147db600c7bdbaa561792\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\8dc2e1236ec4faad9d2140ebdbe78663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\8dc2e1236ec4faad9d2140ebdbe78663\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ec39a9de0a567118ad8feabcae462449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ec39a9de0a567118ad8feabcae462449\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6adc2a4c8964f83e8874916e317de8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\6adc2a4c8964f83e8874916e317de8ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f4b4ef765727c44c56bd05da9254262e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f4b4ef765727c44c56bd05da9254262e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5fae4efac682c702bcc3b1e773ee68ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\5fae4efac682c702bcc3b1e773ee68ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\e89bcc69a429b260846a5f1df820c5dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\e89bcc69a429b260846a5f1df820c5dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\984664f3e53bd182f6216732aa99b475\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4089fc5ee4adf95b2e3b540d1728a620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\4089fc5ee4adf95b2e3b540d1728a620\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\88ac7bd38ccfce6d76638ad0ada70588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\88ac7bd38ccfce6d76638ad0ada70588\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\660a39a038323e37045f6879fd850451\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\660a39a038323e37045f6879fd850451\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\682133510b6d949b5d62d1e67ca22f36\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\682133510b6d949b5d62d1e67ca22f36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a8761b54f884a9b4da7e33f0e4be1321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a8761b54f884a9b4da7e33f0e4be1321\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ef0780dbbaab05328c5b7b97c1aa6c69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\ef0780dbbaab05328c5b7b97c1aa6c69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\3fd830bf66c6e701abaf42e369f55d21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\3fd830bf66c6e701abaf42e369f55d21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7f3e7c456ab029034eb7aa8a8fcd9fe7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\7f3e7c456ab029034eb7aa8a8fcd9fe7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a6f8e46f41fa23d4870c4ab720fa61b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\a6f8e46f41fa23d4870c4ab720fa61b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\9b078f8146e51a40fd6cb9fab884ff70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\9b078f8146e51a40fd6cb9fab884ff70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f6370cd0bb0807051ddc2b5f8f6a7ff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\f6370cd0bb0807051ddc2b5f8f6a7ff7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\94fff44b7ccf023361dcde1076aa45f9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\elija\.gradle\caches\transforms-2\files-2.1\94fff44b7ccf023361dcde1076aa45f9\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\elija\Downloads\ReEcho2-20200318T150209Z-001\ReEcho2\app\src\main\AndroidManifest.xml
